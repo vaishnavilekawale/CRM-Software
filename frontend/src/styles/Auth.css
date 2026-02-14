@@ -1,0 +1,54 @@
+/* Auth Pages Styling */
+.auth-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.auth-wrapper {
+    width: 100%;
+    max-width: 400px;
+}
+
+.auth-card {
+    border: none;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.auth-card .card-body {
+    padding: 40px;
+}
+
+.auth-card h1 {
+    color: #333;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.auth-card .form-control:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+}
+
+.auth-card .btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.auth-card .btn-primary:hover {
+    background: linear-gradient(135deg, #5568d3 0%, #6a3f91 100%);
+}
+
+.auth-card a {
+    color: #667eea;
+    text-decoration: none;
+}
+
+.auth-card a:hover {
+    text-decoration: underline;
+}

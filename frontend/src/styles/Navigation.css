@@ -1,0 +1,36 @@
+/* Navigation Styling */
+.navbar-custom {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(to right, #1e3c72, #2a5298) !important;
+}
+
+.brand-text {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+.navbar-custom .nav-link {
+    color: rgba(255, 255, 255, 0.8) !important;
+    margin: 0 5px;
+    transition: color 0.3s;
+}
+
+.navbar-custom .nav-link:hover {
+    color: #fff !important;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.navbar-custom .dropdown-toggle {
+    color: rgba(255, 255, 255, 0.8) !important;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.navbar-custom .dropdown-toggle:hover {
+    color: #fff !important;
+}

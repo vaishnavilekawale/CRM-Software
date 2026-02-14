@@ -1,0 +1,18 @@
+/* Global App Styles */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px 0;
+}
+
+/* Responsive spacing */
+@media (max-width: 768px) {
+    .app-container {
+        padding-top: 56px;
+    }
+}
