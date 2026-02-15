@@ -118,7 +118,7 @@ git --version
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/CRM-Software.git
+git clone https://github.com/vaishnavilekawale/CRM-Software
 cd CRM-Software
 ```
 
@@ -561,7 +561,7 @@ npm install
 
 ---
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -569,14 +569,14 @@ We welcome contributions! Please follow these steps:
 2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
 3. **Commit** your changes (`git commit -m 'Add AmazingFeature'`)
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
+5. **Open** a Pull Request -->
 
-### Contribution Guidelines
+<!-- ### Contribution Guidelines
 - Follow the existing code style
 - Add tests for new features
 - Update documentation when needed
 - Write clear commit messages
-- Ensure your code doesn't break existing functionality
+- Ensure your code doesn't break existing functionality -->
 
 ---
 
@@ -597,17 +597,17 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
+<!-- ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
----
+--- -->
 
 ## 👨‍💼 Author & Support
 
-**Developed by:** Your Name/Organization
-**Email:** your.email@example.com
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Developed by:** Vaishnavi Lekawale
+**Email:** lekawalevaishnavi.gmail.com
+**GitHub:** [@vaishnavilekawale](https://github.com/vaishnavilekawale)
 
 ### Support
 For support, email support@crmsoftware.com or open an issue on GitHub.
@@ -624,7 +624,7 @@ For support, email support@crmsoftware.com or open an issue on GitHub.
 
 ---
 
-## 📈 Roadmap
+<!-- ## 📈 Roadmap
 
 ### Upcoming Features
 - [ ] Email notifications integration
@@ -636,7 +636,7 @@ For support, email support@crmsoftware.com or open an issue on GitHub.
 - [ ] Calendar integration
 - [ ] Multi-language support (i18n)
 - [ ] Two-factor authentication (2FA)
-- [ ] Activity logging and audit trail
+- [ ] Activity logging and audit trail -->
 
 ---
 
@@ -656,6 +656,6 @@ For support, email support@crmsoftware.com or open an issue on GitHub.
 
 ### ⭐ If you find this project helpful, please give it a star!
 
-Made with ❤️ by CRM Development Team
+<!-- Made with ❤️ by CRM Development Team -->
 
 </div>
