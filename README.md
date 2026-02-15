@@ -606,11 +606,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💼 Author & Support
 
 **Developed by:** Vaishnavi Lekawale
-**Email:** lekawalevaishnavi.gmail.com
+**Email:** lekawalevaishnavi.@gmail.com
 **GitHub:** [@vaishnavilekawale](https://github.com/vaishnavilekawale)
 
 ### Support
-For support, email support@crmsoftware.com or open an issue on GitHub.
+<!-- For support, email support@crmsoftware.com or open an issue on GitHub. -->
 
 ---
 
